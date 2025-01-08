@@ -1,4 +1,4 @@
-# Flu_Shot_Learning_Project# Predicting Vaccine Responses for H1N1 and Seasonal Flu
+# Predicting Vaccine Responses for H1N1 and Seasonal Flu
 
 ## Project Overview
 This project explores three machine learning methods (Decision Tree, XGBoost, and Neural Network) to predict vaccine responses for H1N1 and seasonal flu. The models were evaluated on performance metrics such as precision, recall, F1-score, and accuracy.
